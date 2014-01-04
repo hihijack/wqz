@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "type": 0,
+    "name": "地狱咆哮头盔",
+    "resource": "helm_argenthorde"
+  },
+  {
+    "id": 1,
+    "type": 1,
+    "name": "地狱咆哮肩甲",
+    "resource": "lshoulder_argenthorde&rshoulder_argenthorde"
+  },
+  {
+    "id": 2,
+    "type": 2,
+    "name": "地狱咆哮胸甲",
+    "resource": "argenthorde"
+  },
+  {
+    "id": 3,
+    "type": 3,
+    "name": "地狱咆哮手甲",
+    "resource": "argenthorde"
+  },
+  {
+    "id": 4,
+    "type": 4,
+    "name": "地狱咆哮腿甲",
+    "resource": "argenthorde"
+  }
+]
