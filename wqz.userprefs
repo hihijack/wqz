@@ -1,49 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sprites\Test\NGUITest.cs">
-    <Files>
-      <File FileName="Assets\Sprites\Test\NGUITest.cs" Line="20" Column="25" />
-      <File FileName="Assets\Sprites\GameView.cs" Line="245" Column="19" />
-      <File FileName="Assets\Sprites\Enermy.cs" Line="77" Column="4" />
-      <File FileName="Assets\Sprites\IActor.cs" Line="128" Column="6" />
-      <File FileName="Assets\Sprites\GameDates.cs" Line="85" Column="5" />
-      <File FileName="Assets\Sprites\Tools.cs" Line="7" Column="21" />
-      <File FileName="Assets\Sprites\Hero.cs" Line="248" Column="1" />
-      <File FileName="Assets\Sprites\FSM\IActorState.cs" Line="87" Column="1" />
-      <File FileName="Assets\NGUI\Scripts\UI\UISprite.cs" Line="397" Column="1" />
-      <File FileName="Assets\Sprites\AltraAtk.cs" Line="25" Column="25" />
-      <File FileName="Assets\Sprites\skills\MortalStrike.cs" Line="27" Column="42" />
-      <File FileName="Assets\Sprites\skills\BattleRoar.cs" Line="23" Column="26" />
-      <File FileName="Assets\Sprites\buffs\Buff_SuperAtk.cs" Line="32" Column="2" />
-      <File FileName="Assets\Sprites\buffs\Buff_SuperArm.cs" Line="7" Column="1" />
-      <File FileName="Assets\Sprites\buffs\IBaseBuff.cs" Line="26" Column="22" />
-      <File FileName="Assets\Sprites\skills\ISkill.cs" Line="54" Column="26" />
-      <File FileName="Assets\Resources\GameData\Skills.txt" Line="19" Column="14" />
-      <File FileName="Assets\Sprites\Items\Trap.cs" Line="11" Column="21" />
-      <File FileName="Assets\Sprites\Items\Food.cs" Line="18" Column="3" />
-      <File FileName="Assets\Sprites\UIDestroyOnEnd.cs" Line="5" Column="16" />
-      <File FileName="Assets\NGUI\Scripts\Internal\NGUITools.cs" Line="1002" Column="23" />
-    </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State expanded="True">
-          <Node name="Assembly-CSharp" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="NGUI" expanded="True">
-                <Node name="Scripts" expanded="True" />
-              </Node>
-              <Node name="Sprites" expanded="True">
-                <Node name="Items" expanded="True" />
-                <Node name="Test" expanded="True">
-                  <Node name="NGUITest.cs" selected="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

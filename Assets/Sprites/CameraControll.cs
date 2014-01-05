@@ -12,17 +12,18 @@ public class CameraControll : MonoBehaviour {
 	GameView gameView;
 	private float upSpeed = 5.0f;
 	private float uplimitOffset = 4.0f;
-	private float offsetZ;
+	private Vector3 offset;
 	// Use this for initialization
 	void Start () {
 		gameView = GameObject.Find("CPU").GetComponent<GameView>();
-		offsetZ = transform.position.z - target.transform.position.z;
+		offset = transform.position - target.transform.position;
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		Vector3 pos = transform.position;
-		pos.z = target.transform.position.z + offsetZ;
+		pos.z = target.transform.position.z + offset.z;
+		pos.x = target.transform.position.x + offset.x;
 		transform.position = pos;
 	}
 }
